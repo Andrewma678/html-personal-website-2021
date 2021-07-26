@@ -1,0 +1,25 @@
+body{
+    color: #ab1232; 
+    position:absolute;
+    width:780px;
+    height:650px;
+    left:50%;
+    top:50%;
+    margin-left:-390px;
+    margin-top:-325px;
+    Font-family: Helvetica Neue, Helvetica, Arial, sans-serif
+    
+
+}
+
+.aligncenter{
+
+    text-align:center;
+
+}
+
+.elfclass{
+
+    Font-family: Helvetica Neue, Helvetica, Arial, sans-serif
+
+}
